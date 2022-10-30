@@ -1,0 +1,16 @@
+{
+"name": "candybonanzapng",
+"theme": "candy bonanza png",
+"version": "3.1.2",
+"description": "candy bonanza png สมัครสมาชิกเว็บสล็อตเว็บตรง สมาชิกเยอะ ให้โบนัสเครดิตฟรี",
+"keywords": [
+"candy bonanza png",
+"candy bonanza png เครดิตฟรี",
+"candy bonanza png ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/candybonanzapng",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
